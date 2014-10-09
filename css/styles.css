@@ -8,6 +8,10 @@ h1{
 	border:10px solid black;
 }
 
+#map{
+	margin-top: 0px;
+}
+
 body {
 	background: url("../img/bg.png");
 }
